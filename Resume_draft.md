@@ -29,6 +29,6 @@ I have experience in various fields: engineering, photography, small computer bu
 * **German (Deutsch)** - Level Elementary. I studied German at school.
 
 ## Contacts:
-* Email: * feligrando@ya.ru *
+* Email: *feligrando@ya.ru*
 * Phone: *+375259529092* (You can call and write to Telegram)
 * [GitHub](https://github.com/Felig)
