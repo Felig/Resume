@@ -11,22 +11,22 @@ I have experience in various fields: engineering, photography, small computer bu
 * Version control system: *Git, Windchill*
 
 ## Experience:
-Automotive Design Engineer, Minsk Wheel Tractor Plant, 6 years.
-Private entrepreneur, computer master, 3 years.
-Photographer, photo editing.
+* Automotive Design Engineer, Minsk Wheel Tractor Plant, 6 years.
+* Private entrepreneur, computer master, 3 years.
+* Photographer, photo editing.
 
 ## Education:
-- Belarusian National Technical University (Internal Combustion Engines, Mechanical Engineer), 2014
-- College of Light Industry (Computer's Operator), 2009
+* Belarusian National Technical University (Internal Combustion Engines, Mechanical Engineer), 2014
+* College of Light Industry (Computer's Operator), 2009
 
 **Courses**
-EPAM UPSkill Lab, 2020
-Ormedia, Extended Front-end, 2019
-BGU, Web-design and computer graphics, 2018
+* EPAM UPSkill Lab, 2020
+* Ormedia, Extended Front-end, 2019
+* BGU, Web-design and computer graphics, 2018
 
 ## Languages:
-**English** - Level Elementary. I’m use the application “Duolingo” and learn from English videos.
-**German (Deutsch)** - Level Elementary. I studied German at school.
+* **English** - Level Elementary. I’m use the application “Duolingo” and learn from English videos.
+* **German (Deutsch)** - Level Elementary. I studied German at school.
 
 ## Contacts:
 * Email: * feligrando@ya.ru *
