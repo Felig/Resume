@@ -25,7 +25,7 @@ I have experience in various fields: engineering, photography, small computer bu
 * BGU, Web-design and computer graphics, 2018
 
 ## Languages:
-* **English** - level Elementary. I’m use the application “Duolingo” and learn from English videos.
+* **English** - level elementary. I’m use the application “Duolingo” and learn from English videos.
 * **German (Deutsch)** - level elementary. I studied German at school.
 
 ## Contacts:
