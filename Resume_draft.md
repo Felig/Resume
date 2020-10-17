@@ -16,8 +16,10 @@ I have experience in various fields: engineering, photography, small computer bu
 * Photographer, photo editing.
 
 ## Education:
-* Belarusian National Technical University (Internal combustion engines, mechanical engineer), 2014
-* College of light industry (Computer's operator), 2009
+Educational institution | Specialty | Graduation year
+------------ | ------------- | ----
+Belarusian National Technical University | Internal combustion engines, mechanical engineer | 2014
+College of light industry | Computer's operator | 2009
 
 **Courses**
 * EPAM UPSkill Lab, 2020
